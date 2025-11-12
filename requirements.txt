@@ -3,5 +3,4 @@ pandas
 matplotlib
 seaborn
 numpy
-sqlite3
 numpy
